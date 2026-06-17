@@ -32,7 +32,7 @@ No es teoría por teoría. Es lo que uso, lo que pruebo, lo que funciona.
 
 ## Contacto
 
-- LinkedIn: [linkedin.com/in/nykollortiz](#)
+- LinkedIn: [linkedin.com/in/nykollortiz](https://www.linkedin.com/in/nykoll-ortiz/)
 - Email: nykollov@gmail.com
 - Instagram: @nykoll
 
