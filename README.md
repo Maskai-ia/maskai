@@ -1,6 +1,6 @@
 # Nykoll Ortiz — IA & CRM Contenido
 
-> CRM Specialist · Customer Lifecycle · IA aplicada a negocios reales
+> CRM Analyst en Cabify Perú · Customer Lifecycle · IA aplicada a negocios reales
 
 Repositorio de reportes técnicos, recursos y contenido sobre Inteligencia Artificial aplicada al marketing, CRM y automatización de procesos. Publicado como parte de mi marca personal y compromiso de aprendizaje continuo.
 
